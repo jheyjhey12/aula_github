@@ -1,13 +1,10 @@
-h1{
-    color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 60px;
+h1 {
+    text-align: center;
 }
-p{
-    border: 2px solid; color: #000;
-    width: 200px;
-}
-.ultimop {
-     margin-top: 70px;
-}
+body{
+    background-image: url(https://cursinhoparamedicina.com.br/wp-content/uploads/2022/10/Paisagem-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
 
+}
