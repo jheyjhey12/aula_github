@@ -1,0 +1,13 @@
+h1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+p{
+    border: 2px solid; color: #000;
+    width: 200px;
+}
+.ultimop {
+     margin-top: 70px;
+}
+
