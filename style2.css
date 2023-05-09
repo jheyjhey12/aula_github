@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 50px;
+    margin: 40px auto;
+    box-shadow: 3px 3px 4px 4px rgb(140, 150, 158);
+    gap: 3px;
+}
+
+input {
+    padding: 10px;
+}
+
+label {
+    font-weight: bold;
+    color: rgb(148, 9, 113);
+}
+
