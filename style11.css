@@ -4,24 +4,50 @@ body{
 }
 
 header {
-border: 1px solid blueviolet; /* criar uma borda/*
+border: 1px solid blueviolet; /* criar uma borda*/
 padding: 10px; /*espaçamento interno */
 text-align: center; 
 }
 
 main{
- border: 1px solid black
+ border: 1px solid black; /*definir uma borda para a tela */
  padding: 20px;
  margin-top: 30px;
 }
 
 main p{
-  color: darkred;
+  color: rgb(139, 0, 109);
 }
 
-form {
+.preto{
+    background-color: black;
+}
+
+fieldset {
     display: flex;
     flex-direction: column;
     width: 500px;
-    gap: 10;
+    
 }
+
+table {
+    border:  1px solid black;
+    width: 600px;
+
+}
+
+th {
+    background-color: aqua;/* definir uma cor de fundo para as respostas da tabela*/
+    padding: 10px;/* espaçamento internos do titulo*/
+}
+
+td{
+    background-color: cadetblue;/* definir uma cor de fundo para os titulos da tabela*/
+    padding: 10px ;/* espaçamento interno das respostas*/
+}
+
+footer{
+    border: 1px solid blue;
+    margin-top: 20px;/* espaçamento externo do footer, parte superior*/
+}
+
