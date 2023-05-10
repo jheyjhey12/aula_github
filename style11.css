@@ -1,0 +1,27 @@
+body{
+    background-color: deepskyblue; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ;
+}
+
+header {
+border: 1px solid blueviolet; /* criar uma borda/*
+padding: 10px; /*espaçamento interno */
+text-align: center; 
+}
+
+main{
+ border: 1px solid black
+ padding: 20px;
+ margin-top: 30px;
+}
+
+main p{
+  color: darkred;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 10;
+}
