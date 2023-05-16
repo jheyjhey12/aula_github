@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9xW1lEi1nRc3MUH41H8ZDE2L86vhTTuyJgQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 50px;
+    margin: 40px auto;
+    box-shadow: 3px 3px 4px 4px rgb(140, 150, 158);
+    gap: 3px;
+    color: blue;
+}
+
+input {
+    padding: 10px;
+}
+
+label {
+    font-weight: bold;
+    color: rgb(11, 9, 148);
+    
+}
+
